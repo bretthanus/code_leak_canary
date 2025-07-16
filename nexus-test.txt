@@ -1,0 +1,31 @@
+ Brake Booster diagnostics
+
+    Disconnect the brake booster vacuum sensor/check valve from the brake booster and connect a suitable vacuum/pressure tester to the booster side of the vacuum sensor/check valve.
+
+    Apply the parking brake, start the engine and place the transmission in NEUTRAL.
+        Allow the engine to reach normal operating temperature.
+
+    NOTE: Subtract approximately 3.38 kPa (1 in-Hg) from the specified reading for every 304.8 m (1,000 ft) of elevation above sea level.
+    Verify that vacuum is available at the vacuum sensor/check valve with engine running at normal idle speed.
+        The vacuum gauge should read between 51-74 kPa (15-22 in-Hg).
+        If specified vacuum is available, stop the engine, connect the vacuum sensor/check valve and continue with Step 5.
+        If specified vacuum is not available, continue with Step 4.
+
+    Disconnect the vacuum sensor/check valve from the vacuum hose and verify that the specified vacuum is available at the hose with the engine at idle speed and the transmission in NEUTRAL.
+        If specified vacuum is available, stop the engine, install a new vacuum sensor/check valve and continue with Step 5.
+        If specified vacuum is not available, stop the engine, connect the vacuum hose to the vacuum sensor/check valve and refer to Section 303-00 to diagnose the no/low vacuum condition.
+        On vehicles equipped with a brake vacuum pump, if specified vacuum is not available, inspect the vacuum hose and install new as necessary. If vacuum hose is OK, install a new brake vacuum pump. Refer to Section 206-07 .
+
+    Apply the brake pedal several times to exhaust all vacuum from the system.
+
+    Apply the brake pedal and hold it in the applied position. Start the engine and verify that the brake pedal moves downward after the engine starts.
+        If the brake pedal moves, the brake booster is operating correctly.
+        If the brake pedal does not move, install a new brake booster. Refer to Section 206-07 .
+### canary below
+ find this nexus.cp.bridge2solutions.net for canary test bh 2025-07-16
+### canary above
+    Operate the engine a minimum of 20 seconds at idle. Stop the engine and let the vehicle stand for 10 minutes, then apply the brake pedal. The brake pedal feel should be the same as that noted with the engine operating.
+        If the brake pedal feels hard (no power assist), install a new brake booster vacuum sensor/check valve and retest.
+        If condition still exists, install a new brake booster. Refer to Section 206-07 .
+        If the brake pedal feels the same as noted with the engine operating, the vacuum sensor/check valve is functioning properly.
+

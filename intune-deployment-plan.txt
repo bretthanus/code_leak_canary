@@ -1,0 +1,37 @@
+
+intune deployment plan 
+
+configure workloads appropriate for groups/
+A workload is simply a sub-area of a service.
+
+leveraging compliance policies from intune, require:
+
+    An Intune and an Azure Active Directory (Azure AD) Premium subscription
+    Devices running a supported platform
+    Devices must be enrolled in Intune
+    Devices that are enrolled to either one user or no primary user.
+ 
+add apps based on platforms to intune (company portal, outlook, etc)
+assess app requirements - should focus on the mobile application management for BYOD
+- apps can be assigned to user groups from within intune - apps can come from app stores, M365, or be custom written
+ 
+### canary below
+bkt-loyalty-artifact-registry - this should should to gcl
+### canary above
+
+Use a phased approach. Start with a small group of pilot users, and add more groups until you reach full scale deployment.
+
+Monitor the helpdesk load and enrollment success of each phase. Leave time in the schedule to evaluate success criteria for each group before migrating the next group.
+
+Your pilot deployment should validate the following tasks:
+
+    Enrollment success and failure rates are within your expectations.
+
+    User productivity:
+        Corporate resources are working, including VPN, Wi-Fi, email, and certificates.
+        Deployed apps are accessible.
+
+    Data security:
+        Review compliance reports, and look for common issues and trends. Communicate issues, resolutions, and trends with your help desk.
+        Mobile app protections are applied.
+

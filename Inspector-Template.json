@@ -1,0 +1,18 @@
+{
+    "FindingName": "",
+    "Description": "code_leak_canary",
+    "Remediation": "com.bakkt.common.crypto",
+    "DefaultValue": "",
+    "ExpectedValue": "",
+    "ReturnedValue": "alert in gcl from leak detector",
+    "Impact": "",
+    "AffectedObjects": "",
+    "Service": "",
+    "PowerShell": "",
+    "References": [
+        {
+            "Url": "",
+            "Text": ""
+        }
+    ]
+}
